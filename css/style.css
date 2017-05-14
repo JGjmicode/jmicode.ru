@@ -37,8 +37,13 @@ header {
 }
 footer {
   width: 100%;
-  height: 200px;
+  height: 150px;
   background: #83969f;
+}
+footer img {
+  margin-top: 65px;
+  padding-left: 50px;
+  height: 60px;
 }
 .phone-menu {
   width: 40%;
@@ -193,6 +198,14 @@ footer {
   transform: translate3d(-10px, 0, 0);
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
+}
+.process-banner {
+  background-size: cover;
+  overflow: hidden;
+  height: 650px;
+}
+.process-banner img {
+  width: 100%;
 }
 .clearfix::after {
   content: "";

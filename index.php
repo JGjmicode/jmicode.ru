@@ -10,14 +10,14 @@
     <body>
         <header>
             <div class="phone-menu">
-                <div class="phone-ico"><img src="img/phone_ico.png" ></div>
+                <div class="phone-ico"><img src="img/phone_ico.png" /></div>
                 <h2 class="phone-number">+7(978) 555 55 55</h2>
             </div>
         </header>
         
         <div class="wide">
         <div class="banner">
-            <img src="/img/baner.jpg">
+            <img src="/img/baner.jpg" />
         </div>   
         
             <div class="slider">
@@ -43,28 +43,39 @@
             <h2>Что мы предлагаем?</h2>
             <section class="service service-develop">
                 <h4>РАЗРАБОТКА</h4>
-                <div class="service-image"><img src="img/develop.png"></div>
+                <div class="service-image"><img src="img/develop.png" /></div>
                 <h5>Верстка</h5>
                 <h5>Интеграция</h5>
                 <h5>Программирование</h5>
             </section>
             <section class="service service-support">
                 <h4>СОПРОВОЖДЕНИЕ</h4>
-                <div class="service-image"><img src="img/support.png"></div>
+                <div class="service-image"><img src="img/support.png" /></div>
                 <h5>Техническое сопровождение</h5>
                 <h5>Информационное сопровождение</h5>
                 <h5>Внесение изменений на сайт</h5>
             </section>
             <section class="service service-ceo">
                 <h4>ПРОДВИЖЕНИЕ</h4>
-                <div class="service-image"><img src="img/ceo.png"></div>
+                <div class="service-image"><img src="img/ceo.png" /></div>
                 <h5>Контекстная реклама</h5>
                 <h5>SEO-продвижение</h5>
                 <h5>Услуги комплексного продвижения</h5>
             </section>
+            
+            <h2>Разработка web-проектов любой сложности, разработка адаптивных сайтов</h2>
+            
         </div>
         
-        <footer></footer>
+        <div class="wide">
+        <div class="process-banner">
+            <img src="img/process-baner.jpg" />
+        </div>        
+        </div>
+                
+        <footer>
+            <img src="img/jmicode.png" />
+        </footer>
         <script src="/js/jquery-3.2.1.min.js"></script>
         <script src="/js/common.js"></script>
     </body>
