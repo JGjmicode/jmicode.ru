@@ -21,11 +21,17 @@
         </div>   
         
             <div class="slider">
-                <div class="slide1">Slide</div>
+                <div class="viewport">
+                    <ul id="slidewrapper">
+                        <li class="slide"><h2>РАЗРАБОТКА</h2></li>
+                        <li class="slide"><h2>СОПРОВОЖДЕНИЕ</h2></li>
+                        <li class="slide"><h2>ПРОДВИЖЕНИЕ</h2></li>
+                    </ul>
+                </div>
             </div>
         
         <section class="callback">
-            <h3>Связаться с нами</h3>
+            <h3>Заказать звонок</h3>
             <h4>Имя</h4>
             <input type="text" class="input-form name-form"/>
             <h4>Телефон</h4>
